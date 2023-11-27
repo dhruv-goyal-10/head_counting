@@ -1,0 +1,5 @@
+train: /Users/dhruv-goyal/Desktop/head_counting/train
+val: /Users/dhruv-goyal/Desktop/head_counting/val
+
+nc: 1
+names: ["head"]
